@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  border: solid;
+  background-color: pink;
+  padding: 10px;
+}
+
+ .answer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: solid;
+  background-color: pink;
+  padding: 10px;
+}
+
+#btn {
+ color: red;
+ font-size: 18px;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 20px;
+}
+
